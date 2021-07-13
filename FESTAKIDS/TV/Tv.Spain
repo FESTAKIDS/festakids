@@ -183,6 +183,29 @@
 <thumbnail>https://i.imgur.com/3t087AD.png</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 </item>
+	
+
+	
+<item>
+<title>[COLOR orangered]CANAL [COLOR white]PANDA [COLOR aqua]OPCION 1[/COLOR]</title>
+<link>http://83.42.37.203:8001/1:0:1:76C4:40E:1:C00000:0:0:0:</link>
+<thumbnail>https://i.imgur.com/AeZuoM5.png</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+	
+<item>
+<title>[COLOR orangered]CANAL [COLOR white]PANDA [COLOR orangered]OPCION 2[/COLOR]</title>
+<link>http://83.41.183.51:8001/1:0:1:76C4:40E:1:C00000:0:0:0:</link>
+<thumbnail>https://i.imgur.com/AeZuoM5.png</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+ 	
+<item>
+<title>[COLOR orangered]CANAL [COLOR white]PANDA [COLOR gold]OPCION 3[/COLOR]</title>
+<link>http://83.42.152.255:8001/1:0:1:76C4:40E:1:C00000:0:0:0:</link>
+<thumbnail>https://i.imgur.com/AeZuoM5.png</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
  
  
 </items>
