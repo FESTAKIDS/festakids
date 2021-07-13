@@ -2,6 +2,7 @@
 <items>
 
 
+
 <item>
 <title>[COLOR orangered]CANAL [COLOR white]BABY TV [COLOR aqua]OPCION 1[/COLOR]</title>
 <link>http://83.32.63.213:8001/1:0:1:749C:41C:1:C00000:0:0:0:</link>
@@ -20,6 +21,96 @@
 <title>[COLOR orangered]CANAL [COLOR white]BABY TV [COLOR gold]OPCION 3[/COLOR]</title>
 <link>http://83.32.22.241:8001/1:0:1:749C:41C:1:C00000:0:0:0:</link>
 <thumbnail>https://i.imgur.com/g8PhHHk.png</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR orangered]CANAL [COLOR white]BOING TV [COLOR aqua]OPCION 1[/COLOR]</title>
+<link>http://83.32.197.235:8001/1:0:1:749E:41C:1:C00000:0:0:0:</link>
+<thumbnail>https://i.imgur.com/1qMy0wQ.png</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR orangered]CANAL [COLOR white]BOING TV [COLOR orangered]OPCION 2[/COLOR]</title>
+<link>http://83.32.234.44:8001/1:0:1:749E:41C:1:C00000:0:0:0:</link>
+<thumbnail>https://i.imgur.com/1qMy0wQ.png</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orangered]CANAL [COLOR white]BOING TV [COLOR gold]OPCION 3[/COLOR]</title>
+<link>http://83.34.116.75:8001/1:0:1:749E:41C:1:C00000:0:0:0:</link>
+<thumbnail>https://i.imgur.com/1qMy0wQ.png</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+ 
+
+<item>
+<title>[COLOR orangered]CANAL [COLOR white]CLAN TV [COLOR aqua]OPCION 1[/COLOR]</title>
+<link>http://83.34.132.93:8001/1:0:1:76C1:40E:1:C00000:0:0:0:</link>
+<thumbnail>https://i.imgur.com/aRFotIF.png</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orangered]CANAL [COLOR white]CLAN TV [COLOR orangered]OPCION 2[/COLOR]</title>
+<link>http://83.34.178.108:8001/1:0:1:76C1:40E:1:C00000:0:0:0:</link>
+<thumbnail>https://i.imgur.com/aRFotIF.png</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orangered]CANAL [COLOR white]CLAN TV [COLOR gold]OPCION 3[/COLOR]</title>
+<link>http://83.35.77.155:8001/1:0:1:76C1:40E:1:C00000:0:0:0:</link>
+<thumbnail>https://i.imgur.com/aRFotIF.png</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+
+ 
+<item>
+<title>[COLOR orangered]CANAL [COLOR white]DISNEY + [COLOR aqua]OPCION 1[/COLOR]</title>
+<link>http://83.35.117.23:8001/1:0:1:7607:408:1:C00000:0:0:0:</link>
+<thumbnail>https://i.imgur.com/GERaEbb.png</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR orangered]CANAL [COLOR white]DISNEY + [COLOR orangered]OPCION 2[/COLOR]</title>
+<link>http://83.35.174.164:8001/1:0:1:7607:408:1:C00000:0:0:0:</link>
+<thumbnail>https://i.imgur.com/GERaEbb.png</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orangered]CANAL [COLOR white]DISNEY + [COLOR gold]OPCION 3[/COLOR]</title>
+<link>http://83.36.175.13:8001/1:0:1:7607:408:1:C00000:0:0:0:</link>
+<thumbnail>https://i.imgur.com/GERaEbb.png</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+
+ 
+<item>
+<title>[COLOR orangered]CANAL [COLOR white]DISNEY CHANNEL [COLOR aqua]OPCION 1[/COLOR]</title>
+<link>http://83.37.110.254:8001/1:0:1:76C3:40E:1:C00000:0:0:0:</link>
+<thumbnail>https://i.imgur.com/jkZNVrs.png</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR orangered]CANAL [COLOR white]DISNEY CHANNEL [COLOR orangered]OPCION 2[/COLOR]</title>
+<link>http://83.38.44.70:8001/1:0:1:76C3:40E:1:C00000:0:0:0:</link>
+<thumbnail>https://i.imgur.com/jkZNVrs.png</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orangered]CANAL [COLOR white]DISNEY CHANNEL [COLOR gold]OPCION 3[/COLOR]</title>
+<link>http://83.38.172.126:8001/1:0:1:76C3:40E:1:C00000:0:0:0:</link>
+<thumbnail>https://i.imgur.com/jkZNVrs.png</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 </item>
 
