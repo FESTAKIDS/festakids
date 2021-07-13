@@ -115,4 +115,28 @@
 </item>
 
 
+ 
+ 
+<item>
+<title>[COLOR orangered]CANAL [COLOR white]DISNEY JR [COLOR aqua]OPCION 1[/COLOR]</title>
+<link>http://83.38.31.136:8001/1:0:1:746B:3F0:1:C00000:0:0:0:</link>
+<thumbnail>https://i.imgur.com/va0qSvy.png</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orangered]CANAL [COLOR white]DISNEY JR [COLOR orangered]OPCION 2[/COLOR]</title>
+<link>http://83.39.101.1:8001/1:0:1:746B:3F0:1:C00000:0:0:0:</link>
+<thumbnail>https://i.imgur.com/va0qSvy.png</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+	
+<item>
+<title>[COLOR orangered]CANAL [COLOR white]DISNEY JR [COLOR gold]OPCION 3[/COLOR]</title>
+<link>http://83.40.62.164:8001/1:0:1:746B:3F0:1:C00000:0:0:0:</link>
+<thumbnail>https://i.imgur.com/va0qSvy.png</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+ 
+ 
 </items>
