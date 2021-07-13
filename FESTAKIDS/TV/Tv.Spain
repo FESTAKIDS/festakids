@@ -139,8 +139,31 @@
 </item>
 	
 
+	
+<item>
+<title>[COLOR orangered]CANAL [COLOR white]DREAMWORKS [COLOR aqua]OPCION 1[/COLOR]</title>
+<link>http://83.42.26.194:8001/1:0:19:750D:420:1:C00000:0:0:0:</link>
+<thumbnail>https://i.imgur.com/utTX02q.png</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+	
+<item>
+<title>[COLOR orangered]CANAL [COLOR white]DREAMWORKS [COLOR orangered]OPCION 2[/COLOR]</title>
+<link>http://83.42.221.83:8001/1:0:19:750D:420:1:C00000:0:0:0:</link>
+<thumbnail>https://i.imgur.com/utTX02q.png</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+ 	
+<item>
+<title>[COLOR orangered]CANAL [COLOR white]DREAMWORKS [COLOR gold]OPCION 3[/COLOR]</title>
+<link>http://83.42.233.223:8001/1:0:1:77C7:40A:1:C00000:0:0:0:</link>
+<thumbnail>https://i.imgur.com/utTX02q.png</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+	
+	
 
- <item>
+<item>
 <title>[COLOR orangered]CANAL [COLOR white]NICK JUNIOR [COLOR aqua]OPCION 1[/COLOR]</title>
 <link>http://83.40.88.164:8001/1:0:1:7697:41E:1:C00000:0:0:0:</link>
 <thumbnail>https://i.imgur.com/Snp4GeO.png</thumbnail>
@@ -207,5 +230,15 @@
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 </item>
  
+	
+	
+<item>
+<title>[COLOR orangered]CANAL [COLOR white]SUPER 3[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=FESTAKIDS&amp;url=https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist_DVR.m3u8</link>
+<thumbnail>https://i.imgur.com/TP7nPYL.png</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+	
+	
  
 </items>
