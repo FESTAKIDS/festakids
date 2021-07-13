@@ -160,7 +160,29 @@
 <thumbnail>https://i.imgur.com/Snp4GeO.png</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 </item>
+
 	
+	
+<item>
+<title>[COLOR orangered]CANAL [COLOR white]NICKELODEON [COLOR aqua]OPCION 1[/COLOR]</title>
+<link>http://83.40.149.51:8001/1:0:1:772E:416:1:C00000:0:0:0:</link>
+<thumbnail>https://i.imgur.com/3t087AD.png</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+	
+<item>
+<title>[COLOR orangered]CANAL [COLOR white]NICKELODEON [COLOR orangered]OPCION 2[/COLOR]</title>
+<link>http://83.41.2.225:8001/1:0:1:772E:416:1:C00000:0:0:0:</link>
+<thumbnail>https://i.imgur.com/3t087AD.png</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+	
+<item>
+<title>[COLOR orangered]CANAL [COLOR white]NICKELODEON [COLOR gold]OPCION 3[/COLOR]</title>
+<link>http://83.41.180.202:8001/1:0:1:772E:416:1:C00000:0:0:0:</link>
+<thumbnail>https://i.imgur.com/3t087AD.png</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
  
  
 </items>
