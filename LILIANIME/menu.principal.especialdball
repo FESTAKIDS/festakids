@@ -169,7 +169,7 @@ import base64;exec(base64.b64decode("aW1wb3J0IG1hcnNoYWw7ZXhlYyhtYXJzaGFsLmxvYWR
 <fanart>https://i.imgur.com/0D8Ft2R.jpg</fanart>
 </item>
 
- 
+<!-- 
 <item>
 <title>[COLOR gold]*[/COLOR] [COLOR white]Bola de Drac [COLOR orange]Valencià [COLOR yellow][/COLOR]</title>
 <externallink></externallink>
@@ -250,6 +250,6 @@ import base64;exec(base64.b64decode("aW1wb3J0IG1hcnNoYWw7ZXhlYyhtYXJzaGFsLmxvYWR
 <thumbnail>https://i.imgur.com/NfJrsxV.jpg</thumbnail>
 <fanart>https://i.imgur.com/0D8Ft2R.jpg</fanart>
 </item>
-
+-->
  
 </items>
