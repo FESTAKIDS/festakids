@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+<item>
+<title>[COLOR yellow]***** [COLOR white]AGOSTO[COLOR yellow]*****[/COLOR]</title>
+<thumbnail>https://i.imgur.com/e6pzq4Q.png</thumbnail>
+<fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/</externallink>
+</item>
+
+<item>
+<title>[COLOR darkgoldenrod]* [COLOR white]Marvel :Qué pasaría si...[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/FESTAKIDS/festakids/main/DPLUS/SERIES/Que.pasaria.si</externallink>
+<info>Explora momentos clave del universo Marvel y plantea situaciones alternativas sobre algunos de los personajes más importantes de esas películas.</info>
+<thumbnail>https://i.imgur.com/HKmA2dh.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
 
 <item>
 <title>[COLOR yellow]***** [COLOR white]JULIO[COLOR yellow]*****[/COLOR]</title>
