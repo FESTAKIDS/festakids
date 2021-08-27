@@ -108,7 +108,7 @@
 <thumbnail>https://i.imgur.com/caGGrUE.jpg</thumbnail>
 <fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
 </item>
-  
+
 <item>
 <title>[COLOR darkgoldenrod]* [COLOR white]Con amor, Victor[/COLOR]</title>  
 <link>cristalazul</link>
@@ -116,7 +116,7 @@
 <info>Basada en la novela para jóvenes de Becky Albertalli 'Simon vs. the Homo Sapiens Agenda', que inspiró el largometraje 'Love, Simon'. 'Love, Victor' sigue a Victor, un nuevo estudiante de Creekwood High School en su autodescubrimiento, enfrentándose a problemas en casa, adaptándose a una nueva ciudad y descubriendo su orientación sexual. Cuando todo se le está haciendo difícil, se acerca a Simon para que le ayude a lidiar con los altibajos de su vida.</info>
 <thumbnail>https://i.imgur.com/zOgeZg0.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
-</item>  
+</item>
 
 <item>
 <title>[COLOR darkgoldenrod]* [COLOR white]Curioso pero cierto[/COLOR]</title>  
@@ -249,7 +249,7 @@
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/FESTAKIDS/festakids/main/DPLUS/SERIES/Guardianes.de.la.galaxia.xml</externallink>
 <info>Serie de TV (2015-2019). 3 temporadas. 77 episodios. Los Guardianes encuentran un artefacto secreto que sólo parece reaccionar ante el ADN de Peter Quill. Cuando lo abre, Quill descubre un mapa del tesoro que les conduce a una poderosa arma conocida como la "semilla cósmica", y que al parecer es capaz de crear un universo entero. De este momento en adelante será tarea de los Guardianes encontrar, proteger y en última instancia destruir la semilla cósmica con tal de impedir que caiga en las manos equivocadas</info>
-<thumbnail>https://i.imgur.com/leLVVCG.jpg</thumbnail>
+<thumbnail>https://ok.ru/video/1895304792740</thumbnail>
 <fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
 </item>
 
@@ -270,7 +270,7 @@
 <thumbnail>https://i.imgur.com/i3XrSpW.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 </item>
-  
+
 <item>
 <title>[COLOR darkgoldenrod]* [COLOR white]La casa de Mickey Mouse[/COLOR]</title>  
 <link>cristalazul</link>
@@ -290,6 +290,24 @@
 </item>
 
 <item>
+<title>[COLOR darkgoldenrod]* [COLOR white]La magia de Animal Kigdom[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/FESTAKIDS/festakids/main/DPLUS/SERIES/La.magia.de.animal.kingdom.txt</externallink>
+<info>Serie documental que lleva al espectador entre bastidores con expertos del mundo animales, veterinarios y biólogos del acuario SeaBase de Epcot y del Animal Kingdom de Disney.</info>
+<thumbnail>https://i.imgur.com/a8wed0N.jpg</thumbnail>
+<fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR darkgoldenrod]* [COLOR white]La misteriosa Sociedad Benedict[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/FESTAKIDS/festakids/main/DPLUS/SERIES/La.misteriosa.sociedad.benedict.txt</externallink>
+<info>Un grupo de huérfanos dotados de poderes es reclutado por un benefactor excéntrico para ir a una misión secreta.</info>
+<thumbnail>https://i.imgur.com/WoaWwqT.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR darkgoldenrod]* [COLOR white]La princesa Sofía[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/FESTAKIDS/festakids/main/DPLUS/SERIES/La.princesa.sofia.xml</externallink>
@@ -306,18 +324,27 @@
 <thumbnail>https://i.imgur.com/jL0mw5f.jpg</thumbnail>
 <fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
 </item>
-  
+
 <item>
-<title>[COLOR darkgoldenrod]* [COLOR white]Los 4 fantasticos[/COLOR]</title>  
+<title>[COLOR darkgoldenrod]* [COLOR white]Los 4 Fantásticos[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/FESTAKIDS/festakids/main/DPLUS/SERIES/Los.4.fantasticos.xml</externallink>
 <info>Serie de TV (1994-1996). 26 episodios. Las aventuras del mayor equipo de superhéroes de Marvel Comic.</info>
 <thumbnail>https://i.imgur.com/b18evEw.jpg</thumbnail>
 <fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
-</item>  
+</item>
 
 <item>
-<title>[COLOR darkgoldenrod]* [COLOR white]Marvel s Loki[/COLOR]</title>  
+<title>[COLOR darkgoldenrod]* [COLOR white]Marvel 616[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/FESTAKIDS/festakids/main/DPLUS/SERIES/Marvel.616</externallink>
+<info>Docuserie que explora el impacto histórico, cultural y social del Universo Marvel y su interacción con el mundo. </info>
+<thumbnail>https://i.imgur.com/Zd3fnq4.jpg</thumbnail>
+<fanart>https://i.imgur.com/5tQvCOe.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR darkgoldenrod]* [COLOR white]Marvel's Loki[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/FESTAKIDS/festakids/main/DPLUS/SERIES/Marvel.loki.xml</externallink>
 <info>Loki es llevado ante la misteriosa organización llamada Autoridad de Variación Temporal después de robar el Cubo Cósmico durante los eventos de Avengers: Endgame (2019) y se le da a elegir enfrentarse a la eliminación de la realidad o ayudar contra una amenaza mayor,​ por lo cual Loki termina viajando a través del tiempo, alterando la historia humana.</info>
@@ -326,7 +353,7 @@
 </item>
 
 <item>
-<title>[COLOR gold]* [COLOR white]Marvel s M.o.d.o.k[/COLOR]</title>     
+<title>[COLOR gold]* [COLOR white]Marvel's M.o.d.o.k[/COLOR]</title>     
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/Cristalazul/Cristalazul.io/main/SERIES/Series.Cristal/Marvel.M.o.d.o.k.txt</externallink>
 <info>El supervillano M.O.D.O.K ha perseguido durante mucho tiempo su sueño de conquistar el mundo. Pero después de años de reveses y fracasos luchando contra los héroes más poderosos de la Tierra, Derrocado como líder de A.I.M mientras lidia con el matrimonio y una vida familiar que se desmorona, M.O.D.O.K está listo para enfrentarse a su mayor desafío hasta ahora: una crisis de la mediana edad. </info>
@@ -341,6 +368,15 @@
 <info>La serie ofrecerá acceso a todos los secretos de los archivos de S.H.I.E.L.D. relacionados con sus héroes y villanos. Todo ello con la ayuda de Fury, mezclando animación y un peculiar estilo cómic. </info>
 <thumbnail>https://i.imgur.com/AllVyze.jpg</thumbnail>
 <fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR darkgoldenrod]* [COLOR white]Marvel :Qué pasaría si...[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/FESTAKIDS/festakids/main/DPLUS/SERIES/Que.pasaria.si</externallink>
+<info>Explora momentos clave del universo Marvel y plantea situaciones alternativas sobre algunos de los personajes más importantes de esas películas.</info>
+<thumbnail>https://i.imgur.com/HKmA2dh.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 </item>
 
 <item>
@@ -362,21 +398,21 @@
 </item>
 
 <item>
-<title>[COLOR darkgoldenrod]* [COLOR white]Monstruos a la obra[/COLOR]</title>  
-<link>cristalazul</link>
-<externallink>https://raw.githubusercontent.com/FESTAKIDS/festakids/main/DPLUS/SERIES/Monstruos.a.la.obra.xml</externallink>
-<info>Continuación de la franquicia "Monstruos S.A.", en este caso en formato serie y para la plataforma Disney+. La historia arrancará 6 meses después de la película estrenada en 2001.</info>
-<thumbnail>https://i.imgur.com/QDR244q.jpg</thumbnail>
-<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
-</item>
-  
-<item>
 <title>[COLOR darkgoldenrod]* [COLOR white]Más Muppets que nunca[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/FESTAKIDS/festakids/main/DPLUS/SERIES/Mas.muppets.que.nunca.txt</externallink>
 <info>Nueva serie de Los Teleñecos (The Muppets) que combina segmentos de entretenimiento, variedad, cocina y talk show, todo de forma improvisada.</info>
 <thumbnail>https://i.imgur.com/Krx2KGB.jpg</thumbnail>
 <fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR darkgoldenrod]* [COLOR white]Monstruos a la obra[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/FESTAKIDS/festakids/main/DPLUS/SERIES/Monstruos.a.la.obra.xml</externallink>
+<info>Continuación de la franquicia "Monstruos S.A.", en este caso en formato serie y para la plataforma Disney+. La historia arrancará 6 meses después de la película estrenada en 2001.</info>
+<thumbnail>https://i.imgur.com/QDR244q.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 </item>
 
 <item>
@@ -387,6 +423,16 @@
 <thumbnail>https://i.imgur.com/HUVSvbI.jpg</thumbnail>
 <fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR darkgoldenrod]* [COLOR white]Pixar por dentro[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/FESTAKIDS/festakids/main/DPLUS/SERIES/Pixar.por.dentro.xml</externallink>
+<info>5 episodios (2020). Serie documental que explora los entresijos de la empresa Pixar.</info>
+<thumbnail>https://i.imgur.com/8VvqhKx.jpg</thumbnail>
+<fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
+</item>
+
 
 <item>
 <title>[COLOR darkgoldenrod]* [COLOR white]Santuario de chimpancés[/COLOR]</title>  
@@ -468,6 +514,7 @@
 <thumbnail>Basada en una de las filosofías orientales más conocidas, el Woo foo, Yin Yang Yo! cuenta la historia de dos conejitos hermanos (Yin y Yang) que cuando no están ocupados peleándose entre sí, se dedican a combatir el mal con todas sus fuerzas.</thumbnail>
 <fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
 </item>
+
 
 
 
