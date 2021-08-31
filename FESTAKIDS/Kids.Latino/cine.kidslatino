@@ -213,7 +213,7 @@ from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
 from six.moves import urllib_request
 import six
 TRANSLATEPATH = xbmc.translatePath if six.PY2 else xbmcvfs.translatePath
-url = 'https://pastebin.com/raw/x1b1P7Jb'
+url = 'https://raw.githubusercontent.com/FESTAKIDS/festakids/main/FESTAKIDS/Kids.Latino/Pelis/Superheroes.xml'
 titulo = 'CINE INFANTIL'
 import base64, codecs
 
