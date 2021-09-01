@@ -8,4 +8,4 @@
 7kidslatino="http://bit.ly/festakids_latino"
 8karaokekids="http://bit.ly/festakids_karaoke"
 9zumba="http://bit.ly/festakids_zumba"
-13juegos="http://bit.ly/festakids_juegos"
+10juegos="http://bit.ly/festakids_juegos"
