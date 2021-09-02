@@ -2,6 +2,23 @@
 <items>
 
 <item>
+<title>[COLOR yellow]***** [COLOR white]SEPTIEMBRE[COLOR yellow]*****[/COLOR]</title>
+<thumbnail>https://i.imgur.com/e6pzq4Q.png</thumbnail>
+<fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/</externallink>
+</item>
+
+<item>
+<title>[COLOR darkgoldenrod]* [COLOR white]Dug y Carl[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/FESTAKIDS/festakids/main/DPLUS/SERIES/Dug.y.Carl.xml</externallink>
+<info>Miniserie de TV (2021). 5 episodios. Las aventuras de Dug, el perro de la película 'Up', mientras descubre los peligros de los suburbios.</info>
+<thumbnail>https://i.imgur.com/bxJgvVI.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR yellow]***** [COLOR white]AGOSTO[COLOR yellow]*****[/COLOR]</title>
 <thumbnail>https://i.imgur.com/e6pzq4Q.png</thumbnail>
 <fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
