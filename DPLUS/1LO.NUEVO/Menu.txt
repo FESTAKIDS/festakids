@@ -5,17 +5,9 @@
    
    
 <item>
-   <title>[B][COLOR deeppink]Actualizado[/COLOR][COLOR yellow] $doregex[lou][/COLOR][/B]</title>
-    <link>$doregex[lou]</link>
- 
- <regex>
-<name>lou</name>
-<expres><![CDATA[<span id="currentTime">(.*?),.*]]></expres>
-<page>https://24timezones.com/es_husohorario/barcelona_hora_actual.php</page>
-<referer>https://24timezones.com/</referer>
-</regex>
-<genre>@addonfestaycristal</genre>
-<year>2019</year>  
+<title>[B][COLOR deeppink]LO NUEVO DISNEY+[/COLOR][/B]</title>
+<link>$doregex[lou]</link>
+<externallink>https://raw.githubusercontent.com/FESTAKIDS/festakids/main/DPLUS/1LO.NUEVO/series.directo.lo.nuevo.txt</externallink>  
 <thumbnail>https://i.imgur.com/kaTrYgP.jpg</thumbnail>
 <fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
 <info>Para dudas, errores y sugerencias unete a nuestro grupo de telegram [COLOR gold]@addonfestaycristal[/COLOR]</info>
@@ -23,17 +15,6 @@
 </item>
 </item>
 
-
-
-<item>
-<title>[COLOR white]** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** **[/COLOR]</title>
-<link>http://ignorame</link>
-<genre>Categorias</genre>
-<thumbnail>https://i.imgur.com/kaTrYgP.jpg</thumbnail>
-<fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
-<info>[COLOR yellow]@addonfestaycristal[/COLOR]</info>
-<externallink>http://ignorame</externallink>
-</item>
 
 
 <item>
