@@ -13,7 +13,7 @@
 <info>Para dudas, errores y sugerencias unete a nuestro grupo de telegram [COLOR gold]@addonfestaycristal[/COLOR]</info>
 <urlsolve>https://drive.google.com/file/d/15ZW99A3jGRNtkM_TvNogVUW1nBnbWtnA/view</urlsolve>
 </item>
-</item>
+
 
 
 
