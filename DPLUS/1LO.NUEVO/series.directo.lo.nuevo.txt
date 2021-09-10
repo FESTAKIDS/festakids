@@ -10,11 +10,29 @@
 </item>
 
 <item>
+<title>[COLOR darkgoldenrod]* [COLOR white]Doogie Kamealoha, una médica precoz[/COLOR]</title>  
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/FESTAKIDS/festakids/main/DPLUS/SERIES/Doogie.Kamealoha.xml</externallink>
+<info>Lahela "Doogie" Kamealoha es una niña prodigio adolescente que hace malabarismos con su vida en la escuela secundaria y una carrera médica temprana.</info>
+<thumbnail>https://i.imgur.com/OSrno4Q.jpg</thumbnail>
+<fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR darkgoldenrod]* [COLOR white]Dug y Carl[/COLOR]</title>  
 <link>cristalazul</link>
 <externallink>https://raw.githubusercontent.com/FESTAKIDS/festakids/main/DPLUS/SERIES/Dug.y.Carl.xml</externallink>
 <info>Miniserie de TV (2021). 5 episodios. Las aventuras de Dug, el perro de la película 'Up', mientras descubre los peligros de los suburbios.</info>
 <thumbnail>https://i.imgur.com/bxJgvVI.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR darkgoldenrod]* [COLOR white]Marvel's Daredevil[/COLOR]</title>     
+<link>cristalazul</link>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/PANDERETA/Marvel.Daredevil.xml</externallink>
+<info>Adaptación del legendario héroe de cómic de Marvel -conocido como el Hombre sin Miedo-. El abogado Matt Murdock es ciego a causa de un residuo radioactivo, pero sus otros cuatro sentidos están especialmente agudizados. De día, Murdock representa a los oprimidos. Por la noche, es Daredevil, un héroe enmascarado que vigila las oscuras calles de la ciudad y lucha contra toda clase de injusticias.</info>
+<thumbnail>https://i.imgur.com/r3reFJJ.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 </item>
 
