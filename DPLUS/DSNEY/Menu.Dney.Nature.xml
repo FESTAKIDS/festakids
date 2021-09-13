@@ -33,7 +33,7 @@
 <fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[#$pyFunction
-url = 'https://www.youtube.com/watch?v=OdAY7eFuRvs&list=PL0jWOfkzaPFoPyVJZ8kywFODNgQQk3-zJ'
+url = 'https://www.youtube.com/watch?v=lvfc5RTLXbM&list=PL0jWOfkzaPFqZ58zayfOorJhe6L5U2hkZ'
 import re,six
 $doregex[conector_youtube]
 
