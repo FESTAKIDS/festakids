@@ -27,7 +27,7 @@
 
 
 <item>
-<title>[B][COLOR gold]*[/COLOR] [COLOR gold]Lo nuevo D+ [COLOR white]Peliculas [COLOR lime]En mantenimiento[/COLOR][/B]</title>  
+<title>[B][COLOR gold]*[/COLOR] [COLOR gold]Lo nuevo D+ [COLOR white]Peliculas [COLOR lime][/COLOR][/B]</title>  
 <link>$doregex[c]</link>
 <regex>
 <name>c</name>
