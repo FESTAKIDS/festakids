@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+
+<item>
+<title>[B][COLOR darkgoldenrod]* [COLOR yellow]Grupo Telegram[COLOR deepskyblue] @addonfestaycristal[/COLOR][/B]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.imgur.com/pmv3nZ0.png</thumbnail>
+<fanart>https://i.imgur.com/r2bQyc9.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[B][COLOR darkgoldenrod]* [COLOR white]DISNEYNATURE [/COLOR][/B]</title>
+<link>$doregex[lou]</link>
+<jsonrpc>plugin://plugin.video.festakids/?iconimage=https%3a%2f%2fi.imgur.com%2fFM0lctD.jpg&amp;mode=17&amp;regexs=%7bu%27final-feIiz%27%3a%20%7b%27expres%27%3a%20u%22%23%24pyFunction%5cr%5cndef%20GetLSProData(page_data%2cCookie_Jar%2cm)%3a%5cr%5cn%20%20import%20re%5cr%5cn%20%20s%20%3d%20%27%24doregex%5bfinal-feJiz%5d%27%5cr%5cn%20%20def%20enc(s)%3a%5cr%5cn%20%20%20%20d%3d%27%27%5cr%5cn%20%20%20%20s%3ds.split(%27%20%27)%5cr%5cn%20%20%20%20for%20strchar%20in%20s%3a%5cr%5cn%20%20%20%20%20%20%20%20d%20%2b%3d%20chr(int(strchar)%2b6)%5cr%5cn%20%20%20%20return%20d%5cr%5cn%20%20esto%20%3d%20enc(s)%5cr%5cn%20%20return%20esto%5cr%5cn%22%2c%20%27name%27%3a%20u%27final-feIiz%27%2c%20%27page%27%3a%20None%7d%2c%20u%27c%27%3a%20%7b%27listrepeat%27%3a%20u%27%5cr%5cn%3ctitle%3e%5bc.param1%5d%3c%2ftitle%3e%5cr%5cn%3cgenre%3e%5bc.param2%5d%3c%2fgenre%3e%5cr%5cn%3cyear%3e%5bc.param3%5d%3c%2fyear%3e%5cr%5cn%3cinfo%3e%5bc.param6%5d%3c%2finfo%3e%5cr%5cn%3clink%3e%24doregex%5bid3%5d%3c%2flink%3e%5cr%5cn%3cthumbnail%3e%5bc.param4%5d%3c%2fthumbnail%3e%5cr%5cn%3cfanart%3e%5bc.param5%5d%3c%2ffanart%3e%5cr%5cn%27%2c%20%27expres%27%3a%20u%27(%3fs)%3ctitle%3e(.%2a%3f)%3c.%2a%3fgenre%3e(.%2a%3f)%3c.%2a%3fyear%3e(.%2a%3f)%3c.%2a%3fthumbnail%3e(.%2a%3f)%3c.%2a%3ffanart%3e(.%2a%3f)%3c.%2a%3finfo%3e(.%2a%3f)%3c.%2a%3f%3curlsolve%3e(.%2a%3f)%3c.%2a%3f%27%2c%20%27name%27%3a%20u%27c%27%2c%20%27page%27%3a%20u%27https%3a%2f%2fpastebin.com%2fraw%2fCb4A42Nk%27%7d%2c%20u%27final_feliz%27%3a%20%7b%27expres%27%3a%20u%22%23%24pyFunction%5cr%5cndef%20GetLSProData(page_data%2cCookie_Jar%2cm)%3a%5cr%5cn%20%20import%20re%5cr%5cn%20%20s%20%3d%20%27%5bc.param7%5d%27%5cr%5cn%20%20def%20enc(s)%3a%5cr%5cn%20%20%20%20d%3d%27%27%5cr%5cn%20%20%20%20s%3ds.split(%27%20%27)%5cr%5cn%20%20%20%20for%20strchar%20in%20s%3a%5cr%5cn%20%20%20%20%20%20%20%20d%20%2b%3d%20chr(int(strchar)-0)%5cr%5cn%20%20%20%20return%20d%5cr%5cn%20%20esto%20%3d%20enc(s)%5cr%5cn%20%20return%20esto%5cr%5cn%22%2c%20%27name%27%3a%20u%27final_feliz%27%2c%20%27page%27%3a%20None%7d%2c%20u%27id3%27%3a%20%7b%27expres%27%3a%20u%22%23%24pyFunction%5cr%5cndef%20GetLSProData(page_data%2cCookie_Jar%2cm)%3a%5cr%5cn%20%20%20%20import%20resolveurl%5cr%5cn%20%20%20%20url%20%3d%20%27%5bc.param7%5d%27%5cr%5cn%20%20%20%20if%20%27%20%27%20in%20url%3a%5cr%5cn%20%20%20%20%20%20try%3a%5cr%5cn%20%20%20%20%20%20%20%20%20%20url2%20%3d%20%27%24doregex%5bfinal_feliz%5d%27%5cr%5cn%20%20%20%20%20%20%20%20%20%20u%20%3d%20resolveurl.resolve(url2)%5cr%5cn%20%20%20%20%20%20except%3a%5cr%5cn%20%20%20%20%20%20%20%20%20%20u%20%3d%20%27%24doregex%5bfinal_feliz%5d%27.replace(%27https%3a%2f%2fdrive.google.com%2ffile%2fd%2f%27%2c%20%27https%3a%2f%2fwww.googleapis.com%2fdrive%2fv3%2ffiles%2f%27).replace(%27%2fview%27%2c%20%27%3falt%3dmedia%26key%3dAIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw%27)%5cr%5cn%20%20%20%20%20%20return%20u%5cr%5cn%20%20%20%20else%3a%5cr%5cn%20%20%20%20%20%20try%3a%5cr%5cn%20%20%20%20%20%20%20%20%20%20u%20%3d%20resolveurl.resolve(url)%5cr%5cn%20%20%20%20%20%20except%3a%5cr%5cn%20%20%20%20%20%20%20%20%20%20u%20%3d%20%27%5bc.param7%5d%27.replace(%27https%3a%2f%2fdrive.google.com%2ffile%2fd%2f%27%2c%20%27https%3a%2f%2fwww.googleapis.com%2fdrive%2fv3%2ffiles%2f%27).replace(%27%2fview%27%2c%20%27%3falt%3dmedia%26key%3dAIzaSyDdoetN4aDmDBc6Y11CUGK4nhZ0pvZbXOw%27)%5cr%5cn%20%20%20%20%20%20return%20u%5cr%5cn%22%2c%20%27name%27%3a%20u%27id3%27%2c%20%27page%27%3a%20None%7d%2c%20u%27final-feliz%27%3a%20%7b%27expres%27%3a%20u%22%23%24pyFunction%5cr%5cndef%20GetLSProData(page_data%2cCookie_Jar%2cm)%3a%5cr%5cn%20%20import%20re%5cr%5cn%20%20s%20%3d%20%27%5bc.param7%5d%27%5cr%5cn%20%20def%20enc(s)%3a%5cr%5cn%20%20%20%20d%3d%27%27%5cr%5cn%20%20%20%20s%3ds.split(%27%20%27)%5cr%5cn%20%20%20%20for%20strchar%20in%20s%3a%5cr%5cn%20%20%20%20%20%20%20%20d%20%2b%3d%20chr(int(strchar)-4)%5cr%5cn%20%20%20%20return%20d%5cr%5cn%20%20esto%20%3d%20enc(s)%5cr%5cn%20%20return%20esto%5cr%5cn%22%2c%20%27name%27%3a%20u%27final-feliz%27%2c%20%27page%27%3a%20None%7d%2c%20u%27final-feJiz%27%3a%20%7b%27expres%27%3a%20u%22%23%24pyFunction%5cr%5cndef%20GetLSProData(page_data%2cCookie_Jar%2cm)%3a%5cr%5cn%20%20%20%20import%20re%2crequests%2cos%2cxbmc%5cr%5cn%20%20%20%20return%20requests.get(%27https%3a%2f%2fpastebin.com%2fraw%2fpYfAJ6qu%27%2c%20headers%3d%7b%27User-Agent%27%3a%20%27Mozilla%2f5.0%20(Windows%20NT%206.3%3b%20WOW64%3b%20rv%3a55.0)%20Gecko%2f20100101%20Firefox%2f55.0%27%2c%20%27Referer%27%3a%20%27https%3a%2f%2fpastebin.com%27%7d%2c%20verify%3dFalse).text%5cr%5cn%22%2c%20%27name%27%3a%20u%27final-feJiz%27%2c%20%27page%27%3a%20None%7d%7d&amp;url=%24doregex%5bc%5d</jsonrpc>
+<thumbnail>https://i.imgur.com/caPgImr.png</thumbnail>
+<fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[B][COLOR darkgoldenrod]* [COLOR white]EL MARAVILLOSO MUNDO DE LOS ANIMALES DE DISNEY [/COLOR][/B]</title>
+<link>$doregex[link_inteligente]</link>
+<regex>
+<name>link_inteligente</name>
+<listrepeat><![CDATA[
+<title>[COLOR yellow]+[/COLOR] [COLOR white][link_inteligente.param1][/COLOR]</title>
+<link>$doregex[id]</link>
+<thumbnail>https://i.ytimg.com/vi/[link_inteligente.param2]/hqdefault.jpg</thumbnail>
+<fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+url = 'https://www.youtube.com/watch?v=OdAY7eFuRvs&list=PL0jWOfkzaPFoPyVJZ8kywFODNgQQk3-zJ'
+import re,six
+$doregex[conector_youtube]
+
+]]></expres>
+<page></page>
+</regex> 
+<regex>
+<name>conector_youtube</name>
+<expres><![CDATA[#$pyFunction
+import re,requests,base64,shutil,random
+from kodi_six import xbmc,xbmcgui,xbmcaddon,xbmcvfs
+from six.moves import urllib_request
+import six
+def GetLSProData(page_data,Cookie_Jar,m):
+    pasta = requests.get('https://raw.githubusercontent.com/Cristalazul/Cristalazul.io/main/CONECTORES/youtube', verify=False).text
+    return six.ensure_str(pasta)
+]]></expres>
+<page></page>
+</regex>
+<regex>
+<name>id</name>
+<expres><![CDATA[#$pyFunction
+import resolveurl
+def GetLSProData(page_data,Cookie_Jar,m):
+  url = 'https://www.youtube.com/watch?v=[link_inteligente.param2]'
+  return resolveurl.resolve(url)
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>https://i.imgur.com/X78V0Ou.png</thumbnail>
+<fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
+</item>
+
+</items>
