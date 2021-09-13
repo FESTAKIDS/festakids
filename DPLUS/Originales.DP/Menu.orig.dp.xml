@@ -4,7 +4,7 @@
 
 
 <item>
-<title>[COLOR darkgoldenrod]*[/COLOR] [COLOR white]CINE[/COLOR]</title>    
+<title>[B][COLOR darkgoldenrod]* [/COLOR] [COLOR white]CINE[/COLOR][/B]</title>    
 <link>$doregex[c]</link>
 <regex>
 <name>c</name>
