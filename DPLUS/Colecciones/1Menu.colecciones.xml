@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+
+
+<item>
+<title>[B][COLOR darkgoldenrod]* [COLOR gold]COLLECCION [COLOR white]101 Dalmatas[/COLOR][/B]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.imgur.com/Yy1DFjf.png</thumbnail>
+<fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/FESTAKIDS/festakids/main/DPLUS/Colecciones/Dalmatas.xml</externallink>  
+</item>
+
+<item>
+<title>[B][COLOR darkgoldenrod]* [COLOR gold]COLLECCION Disney Amaneceres y ambientes [COLOR chartreuse][/COLOR][/B]</title>
+<link>$doregex[lou]</link>
+<externallink>https://raw.githubusercontent.com/FESTAKIDS/festakids/main/DPLUS/Colecciones/Menu.amaneceresyambientes.xml</externallink>
+<thumbnail>https://i.imgur.com/HBaGPps.png</thumbnail>
+<fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR darkgoldenrod]* [COLOR gold]COLLECCION [COLOR white]Cars[/COLOR][/B]</title>  
+<link>$doregex[c]</link>
+<externallink>https://pastebin.com/raw/drEpLZ6h</externallink>  
+<thumbnail>https://i.imgur.com/z1zJ1E3.png</thumbnail>
+<fanart>https://i.imgur.com/RsLj1lh.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR darkgoldenrod]* [COLOR gold]COLLECCION [COLOR white]Disney Channel[/COLOR][/B]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.imgur.com/C8r2fj4.png</thumbnail>
+<fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/FESTAKIDS/festakids/main/DPLUS/Colecciones/dchannel.xml</externallink>  
+</item>
+
+<item>
+<title>[B][COLOR darkgoldenrod]* [COLOR gold]COLLECCION [COLOR white]Frozen[/COLOR][/B]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.imgur.com/C8r2fj4.png</thumbnail>
+<fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
+<externallink>https://pastebin.com/raw/UvtEHtG6</externallink>  
+</item>
+
+<item>
+<title>[B][COLOR darkgoldenrod]* [COLOR gold]COLLECCION [COLOR white]High School Musical[/COLOR][/B]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.imgur.com/bG9OrNh.png</thumbnail>
+<fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/FESTAKIDS/festakids/main/DPLUS/Colecciones/High.School.xml</externallink>  
+</item>
+
+<item>
+<title>[B][COLOR darkgoldenrod]* [COLOR gold]COLLECCION [COLOR white]Ice Age[/COLOR][/B]</title>  
+<externallink>https://pastebin.com/raw/U3qYWm7m</externallink>  
+<thumbnail>https://i.imgur.com/mDAp2Uw.png</thumbnail>
+<fanart>https://i.imgur.com/RsLj1lh.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR darkgoldenrod]* [COLOR gold]COLLECCION [COLOR white]La sirenita[/COLOR][/B]</title>  
+<link>$doregex[c]</link>
+<externallink>https://pastebin.com/raw/WQiJsJG6</externallink> 
+<thumbnail>https://i.imgur.com/9AygnPL.png</thumbnail>
+<fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR darkgoldenrod]* [COLOR gold]COLLECCION [COLOR white]Las crónicas de Narnia[/COLOR][/B]</title>  
+<link>$doregex[c]</link>
+<externallink>https://raw.githubusercontent.com/FESTAKIDS/festakids/main/DPLUS/Colecciones/Narnia.txt</externallink> 
+<thumbnail>https://i.imgur.com/UdFIZtI.png</thumbnail>
+<fanart>https://i.imgur.com/RsLj1lh.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR darkgoldenrod]* [/COLOR] [COLOR white]Las historias negras importan[/COLOR][/B]</title>
+<externallink>https://raw.githubusercontent.com/FESTAKIDS/festakids/main/DPLUS/Colecciones/Las.historias.negras.importan.xml</externallink>
+<link>na</link>
+<thumbnail>https://i.imgur.com/kTSODYD.png</thumbnail>
+<fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR darkgoldenrod]* [COLOR gold]COLLECCION [COLOR white]Los Simpson[/COLOR][/B]</title>  
+<link>ignorme</link>
+<thumbnail>https://i.imgur.com/WyKuZHg.png</thumbnail>
+<fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
+<externallink>https://pastebin.com/raw/j8x2kjXX</externallink>
+</item>
+
+<item>
+<title>[B][COLOR darkgoldenrod]* [COLOR gold]COLLECCION [COLOR white]Piratas del Caribe[/COLOR][/B]</title>  
+<externallink>https://pastebin.com/raw/Vnd2MLfm</externallink>
+<thumbnail>https://i.imgur.com/fyrziiq.png</thumbnail>
+<fanart>https://i.imgur.com/RsLj1lh.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+<!--
+<item>
+<title>[B][COLOR darkgoldenrod]* [COLOR gold]COLLECCION [COLOR white]Princesas[/COLOR][/B]</title>
+<link>$doregex[c]</link>
+<externallink></externallink>
+<thumbnail>https://i.imgur.com/liZz9tT.png</thumbnail>
+<fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
+</item>
+-->
+
+
+<item>
+<title>[B][COLOR darkgoldenrod]* [COLOR gold]COLLECCION [COLOR white]Spider-Man[/COLOR][/B]</title>  
+<link>$doregex[c]</link>
+<externallink>https://raw.githubusercontent.com/FESTAKIDS/festakids/main/DPLUS/Colecciones/Spman.xml</externallink>
+<thumbnail>https://i.imgur.com/3Jkp1P5.png</thumbnail>
+<fanart>https://i.imgur.com/RsLj1lh.jpg</fanart>
+</item>
+
+
+<item>
+<title>[B][COLOR darkgoldenrod]* [COLOR white]STAR WARS[/COLOR][/B]</title>
+<externallink>https://raw.githubusercontent.com/FESTAKIDS/festakids/main/DPLUS/S.WARS/Menu.SWars.xml</externallink>
+<link>na</link>
+<thumbnail>https://i.imgur.com/FWi9mE1.png</thumbnail>
+<fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[B][COLOR darkgoldenrod]* [COLOR gold]COLLECCION [COLOR white]Toy Story[/COLOR][/B]</title>
+<link>$doregex[c]</link>
+<externallink>https://raw.githubusercontent.com/FESTAKIDS/festakids/main/DPLUS/Colecciones/Toystr.xml</externallink>
+<thumbnail>https://i.imgur.com/ur2uUTM.png</thumbnail>
+<fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
+</item>
+
+
+<!--
+<item>
+<title>[B][COLOR darkgoldenrod]* [COLOR gold]COLLECCION [COLOR white]Winnie The Pooh [/COLOR][/B]</title>
+<link>$doregex[lou]</link>
+<externallink></externallink>
+<thumbnail>https://i.imgur.com/Ic6mFxa.png</thumbnail>
+<fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[B][COLOR darkgoldenrod]* [COLOR gold]COLLECCION [COLOR white]X-Men[/COLOR][/B]</title>
+<link>$doregex[lou]</link>
+<externallink></externallink>
+<thumbnail>https://i.imgur.com/6CvZfzG.png</thumbnail>
+<fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
+</item>
+-->
+
+
+</items>
