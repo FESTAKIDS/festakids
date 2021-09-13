@@ -353,7 +353,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[B][COLOR darkgoldenrod]* [COLOR white]DISNEYNATURE [COLOR chartreuse][/COLOR][/B]</title>
 <link>$doregex[lou]</link>
-<externallink>https://pastebin.com/raw/Mpc7naEr</externallink>
+<externallink>https://raw.githubusercontent.com/FESTAKIDS/festakids/main/DPLUS/DSNEY/Menu.Dney.Nature.xml</externallink>
 <thumbnail>https://i.imgur.com/caPgImr.png</thumbnail>
 <fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
 </item>
