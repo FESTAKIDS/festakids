@@ -98,4 +98,4 @@
 <fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
 </item>
 
-<items>
+</items>
