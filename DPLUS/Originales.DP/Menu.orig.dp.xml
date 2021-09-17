@@ -101,7 +101,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <item>
 <title>[B][COLOR darkgoldenrod]* [COLOR white]SERIES [COLOR yellow]One touch[/COLOR][/B]</title>
 <link>festakids</link>
-<externallink>https://raw.githubusercontent.com/FESTAKIDS/festakids/main/DPLUS/SERIES/1Menu.xml</externallink>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/KIDS/SERIES/1Menu.xml</externallink>
 <thumbnail>https://i.imgur.com/pq8KyGi.png</thumbnail>
 <fanart>https://i.imgur.com/skkYoSC.jpg</fanart>
 </item>
