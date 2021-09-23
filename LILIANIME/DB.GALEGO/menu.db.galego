@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
+
   
   
 <item>
@@ -26,6 +27,16 @@
 <externallink>https://raw.githubusercontent.com/FESTAKIDS/festakids/main/LILIANIME/DB.GALEGO/DBALL.GT.GALEGO</externallink>
 <link>na</link>
 <thumbnail>https://i.imgur.com/Dv5Dctp.jpg</thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR orange]*[/COLOR][COLOR white]Bolas do dragon [COLOR red][COLOR gold]Z Kai[/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/FESTAKIDS/festakids/main/LILIANIME/DB.GALEGO/DBZkai.galego.xml</externallink>
+<link>na</link>
+<thumbnail>https://i.imgur.com/lQn3gws.jpg</thumbnail>
 <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
 </item>
 
