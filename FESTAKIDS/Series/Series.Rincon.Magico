@@ -14,7 +14,7 @@
 <fanart>https://i.imgur.com/JLNg3ue.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[#$pyFunction
-url = 'https://www.youtube.com/playlist?list=PLww09CxR_lB6HU5eqnvGuulqtkwI8wJmq'
+url = 'https://www.youtube.com/watch?v=NYvt_9Kh4gA&list=PLww09CxR_lB6HU5eqnvGuulqtkwI8wJmq'
 import re,six
 $doregex[conector_youtube]
 
@@ -792,7 +792,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://i.imgur.com/JLNg3ue.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[#$pyFunction
-url = 'https://www.youtube.com/playlist?list=PLKXN6nw9Z7HuB9XefG-Yy0doqemtq5cvV'
+url = 'https://www.youtube.com/watch?v=OZz244YWwbk&list=PLynb7MteT3bv-JXyQJFD0dgMX1p-kbTyw'
 import re,six
 $doregex[conector_youtube]
 
