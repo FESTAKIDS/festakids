@@ -1,1 +1,2 @@
 0especial="https://raw.githubusercontent.com/FESTAKIDS/festakids/main/LILIANIME/menu.principal.especialdball"
+1Naruto="http://bit.ly/especial_Naruto"
