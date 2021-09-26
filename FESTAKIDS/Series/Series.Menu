@@ -11,7 +11,7 @@
 
 
 <item>
-<title>[B][COLOR darkgoldenrod]* [COLOR chartreuse]BUSCA TU SERIE[/COLOR] [COLOR white](ALTERNATIVA)[/COLOR][/B]</title>
+<title>[B][COLOR darkgoldenrod]* [COLOR chartreuse]BUSCA TU SERIE[/COLOR] [COLOR white][/COLOR][/B]</title>
 <link>$doregex[makelist2]</link>
 <itemrepeat>True</itemrepeat>
 <regex>
@@ -207,10 +207,6 @@ import base64;exec(base64.b64decode("aW1wb3J0IG1hcnNoYWw7ZXhlYyhtYXJzaGFsLmxvYWR
 <fanart>https://i.imgur.com/Koo2Ejf.jpg</fanart>
 </item>
 
-
-
-
-
 <item>
 <title>[B][COLOR darkgoldenrod]SERIES [COLOR white] EL RINCON MAGICO [COLOR orangered][/COLOR][/B]</title>
 <link>http://ignorame</link>
@@ -218,11 +214,19 @@ import base64;exec(base64.b64decode("aW1wb3J0IG1hcnNoYWw7ZXhlYyhtYXJzaGFsLmxvYWR
 <fanart>https://i.imgur.com/Koo2Ejf.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/FESTAKIDS/festakids/main/FESTAKIDS/Series/Series.Rincon.Magico</externallink>
 </item>
+ 
+<item>
+<title>[B][COLOR darkgoldenrod]SERIES [COLOR white] KIDS [COLOR orangered][/COLOR][/B]</title>
+<link>http://ignorame</link>
+<thumbnail>https://i.imgur.com/INW14JD.png</thumbnail>
+<fanart>https://i.imgur.com/Koo2Ejf.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/staffcf/canto/main/KIDS/SERIES/Series.Kids/0Menu</externallink>
+</item>
 
 
 
 <item>
-<title>[B][COLOR darkgoldenrod]SERIES [COLOR white]KIDS[/COLOR][/B]</title>
+<title>[B][COLOR darkgoldenrod]SERIES [COLOR white]WEB[/COLOR][/B]</title>
 <link>$doregex[makelist2]</link>
 <regex>
 <name>makelist2</name>
@@ -412,7 +416,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 ]]></expres>
 <page></page>
 </regex>
-<thumbnail>https://i.imgur.com/INW14JD.png</thumbnail>
+<thumbnail>https://i.imgur.com/9XJIfJP.png</thumbnail>
 <fanart>http://www.arturogoga.com/wp-content/uploads/2009/12/image4.png</fanart>
 </item>
 
