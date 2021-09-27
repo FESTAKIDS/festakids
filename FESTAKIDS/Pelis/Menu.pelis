@@ -235,6 +235,56 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <fanart>https://i.imgur.com/Koo2Ejf.jpg</fanart>
 </item>
 
+ 
+ 
+ <item>
+<title>[COLOR gold]*[/COLOR] [COLOR darkgoldenrod]Cine [COLOR bisque]Sagas Animación[/COLOR]</title>  
+<link>$doregex[grupos]</link>
+
+<regex>
+<name>grupos</name>
+<listrepeat><![CDATA[
+       <title>[COLOR white][grupos.param1][/COLOR]</title>
+       <thumbnail></thumbnail>
+     <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+     <link>$doregex[cristal]</link>
+]]></listrepeat>
+<expres><![CDATA[(?s)1SagaTINFANTIL,.*?Title:(.*?), SagaID:(.*?), Imagen:(.*?),]]></expres>
+<page>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Todas.pel.torr.json</page>
+</regex>
+  
+<regex>
+  <name>cristal</name>
+  <listrepeat><![CDATA[
+       <title>[COLOR white][cristal.param1] [COLOR [cristal.param3]]([cristal.param2])[/COLOR]</title>
+       <thumbnail>[cristal.param4]</thumbnail>
+     <genre>[cristal.param6]</genre>
+     <fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+	 <info>[cristal.param5]</info>
+     <link>$doregex[motor]</link>
+  ]]></listrepeat>
+<expres><![CDATA[(?s)1Torrentcristal,.{1,250}Sagas [grupos.param2],.*?"name": "(.*?)\((\d+)\).*?"coloryear": "(.*?)".*?"image": "(.*?)".*?"info": "(.*?)".*?"genero": "(.*?)".*?"torrent": "(.*?)".*?]]></expres>  
+<page>https://raw.githubusercontent.com/staffcf/canto/main/MUSICA/Todas.pel.torr.json</page>
+</regex>
+
+<regex>
+<name>motor</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import xbmcgui
+    dialog = xbmcgui.Dialog()
+    ret = dialog.select('Seleccionar motor torrent:', ['[COLOR=ffff4dff]Elementum[/COLOR]', '[COLOR=ffff4dff]Quasar[/COLOR]'])
+    channels = [
+	'plugin://plugin.video.elementum/play?uri=[cristal.param7]',
+	'plugin://plugin.video.quasar/play?uri=[cristal.param7]']  
+    return channels[ret]
+]]></expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/yNfc6m7.jpg</fanart>
+</item>
+ 
 
 <item>
 <title>[COLOR gold]*[/COLOR] [COLOR darkgoldenrod]Cine [COLOR bisque]Infantil[/COLOR]</title>  
@@ -529,7 +579,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 
 
 <item>
-<title>[COLOR darkgoldenrod]*[/COLOR] [COLOR white]Cine Princesas[/COLOR]</title>    
+<title>[COLOR gold]*[/COLOR] [COLOR darkgoldenrod]Cine [COLOR bisque]Princesas[/COLOR]</title>    
 <link>$doregex[c]</link>
 <regex>
 <name>c</name>
