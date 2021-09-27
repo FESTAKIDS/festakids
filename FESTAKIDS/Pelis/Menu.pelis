@@ -236,7 +236,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 </item>
 
  
- 
+ <!--
  <item>
 <title>[COLOR gold]*[/COLOR] [COLOR darkgoldenrod]Cine [COLOR bisque]Sagas Animación.[/COLOR]</title>  
 <link>$doregex[grupos]</link>
@@ -338,7 +338,7 @@ eval(compile(base64.b64decode(eval('\x6e\x65\x6f')),'<string>','exec'))
 <thumbnail>https://i.imgur.com/nz5hags.png</thumbnail>
 <fanart>https://i.imgur.com/Koo2Ejf.jpg</fanart>
 </item>
-
+-->
 
 
 
