@@ -5,7 +5,6 @@
 4tv="http://bit.ly/festakids-tv"
 5cine="https://bit.ly/festakids_cine"
 6series="http://bit.ly/festakids_series"
-7kidslatino="http://bit.ly/festakids_latino"
 8karaokekids="http://bit.ly/festakids_karaoke"
 9zumba="http://bit.ly/festakids_zumba"
 10juegos="http://bit.ly/festakids_juegos"
